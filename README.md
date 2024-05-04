@@ -11,9 +11,9 @@ hope you like them!
 Here, you can see some previews of the wallpapers. For more wallpapers,
 please check the repository files.
 
-![Wallpaper Sample 1](./wallpapers/72514196_p0.png)
-![Wallpaper Sample 2](./wallpapers/102460146_p0.jpg)
-![Wallpaper Sample 2](./wallpapers/67994735_p0.png)
+![Wallpaper Sample 1](./wallpapers/00001.jpg)
+![Wallpaper Sample 2](./wallpapers/00010.png)
+![Wallpaper Sample 2](./wallpapers/00031.png)
 
 ## How to Use
 
